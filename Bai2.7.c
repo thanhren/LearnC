@@ -6,7 +6,7 @@ int main() {
 	unsigned long i;
 	unsigned int counter = 0;
 	
-	printf("Nhap vao so duong n: ");
+	printf("1930");
 	scanf("%lu", &n);
 	for(i = 1; i <= n; i++) {
 		if(n % i == 0) {
